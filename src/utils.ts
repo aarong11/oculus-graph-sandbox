@@ -26,7 +26,6 @@ export function toQueryString (object: Object) {
 
 export function generatePayload (accessToken: String, query: String) {
   return toQueryString({
-    access_token: accessToken,
     method: 'GET',
     q: query,
     response_format: 'json'
