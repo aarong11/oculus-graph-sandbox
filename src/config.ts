@@ -1,1 +1,1 @@
-export const GRAPH_ENDPOINT = 'https://graph.oculus.com/graphql'; // ?forced_locale=en_US';
+export const GRAPH_ENDPOINT = 'https://rapid-glitter-6ce2.aaron-goulden4191.workers.dev/graphql'; // ?forced_locale=en_US';
